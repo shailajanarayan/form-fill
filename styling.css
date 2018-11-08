@@ -60,16 +60,7 @@
 .dropdown:hover .dropdown-content {
     display: block;
 }
-.sec1
-{
-    
-    margin:30px;
-    position:absolute;
-    background-image: url("pic2.jpg");
-    background-size: cover;
-     width: 1300px;
-    height: 600px;
-}
+
 
 .log-text
 {
@@ -81,16 +72,6 @@
 
 #mainform {
 width:960px;
-margin:50px auto;
 padding-top:20px;
 font-family:'Fauna One',serif
-}
-
-input[type=button] {
-background-color:#3C599B;
-border:1px solid #fff;
-font-family:'Fauna One',serif;
-font-weight:700;
-font-size:18px;
-color:#fff
 }
