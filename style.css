@@ -21,7 +21,8 @@ navbar a {
 .input-text
 {
 margin:10px;
-	display: inline-block
+	display: inline-block;
+	margin:10px;
 }
 
 #overWrite > div > div:nth-child(1) {
