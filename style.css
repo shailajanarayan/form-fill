@@ -13,6 +13,17 @@ navbar a {
     padding: 14px 16px;
     text-decoration: none;
 }
+.labl
+{
+	display: inline-block;
+	margin: 10px;
+}
+.input-text
+{
+margin:10px;
+	display: inline-block
+}
+
 #overWrite > div > div:nth-child(1) {
     float: left;
  
