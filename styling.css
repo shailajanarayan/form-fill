@@ -3,6 +3,16 @@
     background-color: powderblue;
     font-family: Arial, Helvetica, sans-serif;
 }
+#owner-name #address #city #state 
+{
+  margin:10px;
+}
+#form > div > label
+{
+ display: inline-block;
+  float:left;
+    margin-bottom: 12px;
+}
 
 .navbar a {
     float: left;
@@ -12,12 +22,6 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-}
-label
-{
-  display: inline-block;
-  float:left;
-    margin-bottom: 12px;
 }
 .dropdown {
     float: left;
